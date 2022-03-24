@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gitlabels/gitlabels-action@main
+      - uses: gitlabels/gitlabels-action@dev/testing
