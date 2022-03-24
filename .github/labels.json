@@ -1,4 +1,4 @@
 [
-  { "name": "signed", "color": "#009800" },
-  { "name": "unsigned", "color": "#e11d21" }
+  { "name": "signed", "color": "009800", "description": "CLA: Signed" },
+  { "name": "unsigned", "color": "e11d21" }
 ]
