@@ -1,5 +1,8 @@
 name: gitlabels-test
 
+permissions:
+  issues: write
+
 on:
   push:
     branches: [ master ]
