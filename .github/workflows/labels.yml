@@ -14,3 +14,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: gitlabels/gitlabels-action@dev/testing
+        env:
+          AUTH_TOKEN: ${{ secrets.PAT_TOKEN }}
