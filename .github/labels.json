@@ -1,5 +1,5 @@
 [
   { "name": "signed", "color": "009800", "description": "CLA: Signed" },
-  { "name": "unsigned", "color": "e11d21" }
+  { "name": "unsigned", "color": "e11d21" },
   { "name": "test1", "color": "000000", "description": "integration test" }
 ]
